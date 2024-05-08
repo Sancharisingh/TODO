@@ -2,6 +2,7 @@ This is a simple Todo List application built using React. Users can add tasks wi
 
 <h3>Technologies Used</h3>
 React
+<br>
 Tailwindcss
 
 
